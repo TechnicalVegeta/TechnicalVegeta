@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **TechnicalVegeta/TechnicalVegeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning:
+
+* GoLang
+* GitOps
+* Kubernetes
+* Azure
+* Python
+
+🔭 I’m currently working on:
+
+* Creating extentions for Azure DevOps
+* Building custom binaries using Go
+* Rancher for Kubernetes
