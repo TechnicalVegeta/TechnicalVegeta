@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  DevOps enthusiast, currently learning and working on Hybrid cloud Infrastructure, code Management, Automation and Development
+ 
 🌱 I’m currently learning:
 
 * GoLang
