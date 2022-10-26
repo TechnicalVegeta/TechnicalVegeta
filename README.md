@@ -42,7 +42,7 @@ DevOps enthusiast, currently learning and working on Hybrid cloud Infrastructure
 [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechnicalVegeta&include_all_commits=true&theme=dark&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=TechnicalVegeta)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicalVegeta&layout=compact)](https://github.com/TechnicalVegeta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicalVegeta&layout=compact&theme=dark&show_icons=true)](https://github.com/TechnicalVegeta/github-readme-stats)
 </br>
 </br>
 
